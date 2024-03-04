@@ -1,0 +1,5 @@
+﻿  ProglamayaGirisDersi1.Odevi.cpp
+C:\Users\Hüseyin AYDIN\source\repos\ProglamayaGirisDersi1.Odevi\ProglamayaGirisDersi1.Odevi\ProglamayaGirisDersi1.Odevi.cpp(43,15): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+C:\Users\Hüseyin AYDIN\source\repos\ProglamayaGirisDersi1.Odevi\ProglamayaGirisDersi1.Odevi\ProglamayaGirisDersi1.Odevi.cpp(288,66): warning C4244: '+=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Hüseyin AYDIN\source\repos\ProglamayaGirisDersi1.Odevi\ProglamayaGirisDersi1.Odevi\ProglamayaGirisDersi1.Odevi.cpp(84,12): warning C4101: 'yilSonuNotu': yerel değişken başvurusu kaldırıldı
+  ProglamayaGirisDersi1.Odevi.vcxproj -> C:\Users\Hüseyin AYDIN\source\repos\ProglamayaGirisDersi1.Odevi\x64\Debug\ProglamayaGirisDersi1.Odevi.exe
